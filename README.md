@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Saurabh Singh
-- 👀 I’m interested in learning several coding languages and try to implement them in solving real world examples.
-- 🌱 I’m currently learning coding languages(C,C++,JAVA)
+
 
 
 <!---
